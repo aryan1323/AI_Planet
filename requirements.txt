@@ -1,0 +1,27 @@
+# --- Frontend & UI ---
+streamlit
+
+# --- AI Agents & Orchestration ---
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+# Added for Cloud Deployment option (Groq)
+langchain-groq
+
+# --- RAG & Vector Database ---
+chromadb
+sentence-transformers
+
+# --- Multimodal (Image & Audio) ---
+pytesseract
+Pillow
+openai-whisper
+
+# --- Math & Logic ---
+sympy
+numpy
+pandas
+
+# --- Utilities ---
+python-dotenv
